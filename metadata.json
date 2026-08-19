@@ -1,0 +1,6 @@
+{
+  "name": "AkiAnime - Anime Streaming & Otaku Hub",
+  "description": "AkiAnime (akianime.com) - A feature-rich anime discovery and streaming platform with seasonal releases, interactive video trailer player, episode tracker, watchlist, schedule calendar, Otaku trivia game, and Gemini-powered anime AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
